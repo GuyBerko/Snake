@@ -1,0 +1,18 @@
+.snake-wrapper {
+  margin-top: 10%;
+}
+
+.actions-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.play-pause-btn {
+  width: 110px;
+  font-size: 26px;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 1px #ffffff;
+  outline: none;
+}
